@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  return "hohoho"
+  return "pushing to heroku"
 end
